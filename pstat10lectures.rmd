@@ -1,1 +1,16 @@
+---
+title: "Collaborative Project"
+output: html_document
+---
 
+## Introduction
+This is a shared R Markdown file.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk_matrix(echo = TRUE)
+```
+
+## Data Analysis
+```{r summary}
+summary(cars)
+```
