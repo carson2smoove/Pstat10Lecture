@@ -1,16 +1,26 @@
 ---
-title: "Collaborative Project"
+title: "PSTAT 10 Review and Practice"
 output: html_document
+author: " By: Carson Long and Eason Lee"
 ---
 
 ## Introduction
-This is a shared R Markdown file.
+This is a shared file, where we track the lectures that have been covered
 
-```{r setup, include=FALSE}
-knitr::opts_chunk_matrix(echo = TRUE)
-```
 
-## Data Analysis
-```{r summary}
-summary(cars)
-```
+
+## Week 0
+
+*Important functions*
+
+
+| *`R` Function* | *Description of Function* | *How Function Is Used* |
+|------|-------|-------|
+|'str'|hello|hello|
+
+
+
+
+
+
+
