@@ -20,7 +20,7 @@ printing strings require a "..."
 
 # class() vs. typeOf()
 
-class() returns "data.frame", "matrix", "array", "numeric"
+class() returns "data.frame", "matrix", "array", "numeric", "vector"
 
 typeOf() returns "list", "integer", "double", "character"
 
