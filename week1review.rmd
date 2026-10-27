@@ -11,3 +11,7 @@ decimals/fractions) and integers (whole numbers)
 **characters:** includes words, individual letters
 
 **logical:** true or false
+
+**factors:** categorial variables (Example: eye color, hair color, etc.)
+
+##
