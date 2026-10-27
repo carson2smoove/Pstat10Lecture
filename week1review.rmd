@@ -14,4 +14,9 @@ decimals/fractions) and integers (whole numbers)
 
 **factors:** categorial variables (Example: eye color, hair color, etc.)
 
-##
+## Strings
+
+printing strings require a "..."
+
+
+ 
