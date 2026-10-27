@@ -18,6 +18,7 @@ This is a shared file, where we track the lectures that have been covered
 |------|-------|-------|
 |'class()'|outputs the type of object it is|class(variable_name)|
 |'typeOf()'|outputs the type of object it is|typeOf(variable_name)|
+|comment|use to comment and not show up in the HTML output|#there is no function for a multiline comment|
 
 ## [Week 2](week2review.html)
 
