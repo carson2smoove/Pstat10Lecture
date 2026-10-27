@@ -1,3 +1,9 @@
 ---
 title: "Week 1"
 ---
+
+## Different data types in R
+
+**numeric:** includes *doubles* (numbers that have decimals/fractions) and integers (whole numbers)
+**characters:** includes words, individual letters
+**logical:** true or false
