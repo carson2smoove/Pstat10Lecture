@@ -18,5 +18,15 @@ decimals/fractions) and integers (whole numbers)
 
 printing strings require a "..."
 
+# class() vs. typeOf()
+
+class() returns "data.frame", "matrix", "array", "numeric"
+
+typeOf() returns "list", "integer", "double", "character"
+
+• If you are investigating a data science structure (like a model output, a table, or a date), class() is more specific.
+• If you are evaluating a mathematical vector or memory allocation, typeof() is more specific.
+
+
 
  
