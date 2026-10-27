@@ -20,6 +20,8 @@ decimals/fractions) and integers (whole numbers)
 
 **factors:** categorial variables (Example: eye color, hair color, etc.)
 
+**as.character(variable_name)** changes a variable to a different data type (could use as.double, as.integer, as.numeric, as.logical, as.factor)
+
 ## Strings
 
 printing strings require a "..."
@@ -53,7 +55,25 @@ typeof(penguins$bill_length_mm)
 mean(penguins$bill_length_mm, na.rm = TRUE)
 ```
 
-##
+## Operators
+
+== (Equal)
+
+!= (Does not equal)
+
+^ (Exponential)
+
+%% (Modulus, which returns the remainder of numbers being divided)
+
+*+* (Addition)
+
+*-* (Subtraction)
+
+(*) (Mulitplication)
+
+
+
+
 
 
  
