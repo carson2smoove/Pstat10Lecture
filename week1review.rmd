@@ -3,6 +3,12 @@ title: "Week 1"
 output: html_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+library(tidyverse)
+```
+
 ## Different data types in R
 
 **numeric:** includes *doubles* (numbers that have
@@ -20,17 +26,34 @@ printing strings require a "..."
 
 ## class() vs. typeOf()
 
-class() returns "data.frame", "matrix", "array", "numeric", "vector"
+**class()** returns "data.frame", "matrix", "array", "numeric", "vector"
 
-typeOf() returns "list", "integer", "double", "character"
+**typeOf()** returns "list", "integer", "double", "character"
 
 • If you are investigating a data science structure (like a model output, a table, or a date), class() is more specific.
 • If you are evaluating a mathematical vector or memory allocation, typeof() is more specific.
 
 ## Data Analysis
 
-view(data) 
+**view(data_title)** allows you to view the data from a specific data, opening up a new file
 
+**glimpse(data_title)** allows you to view the data from the console, and does not open a new file
+
+**help(package_name)** and ?package_name opens up the information regarding the package from the authors and additional information
+
+Using the example from the *penguins* dataset, we can grab the data from a specific column by using **penguins$bill_length_mm** and using "na.rm = TRUE" removes NA values in the calculation.
+
+**install.package()** installs a package to potentially be used
+
+**library()** loads a package for the user to use
+
+```{r}
+library(palmerpenguins)
+typeof(penguins$bill_length_mm)
+mean(penguins$bill_length_mm, na.rm = TRUE)
+```
+
+##
 
 
  
