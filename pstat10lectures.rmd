@@ -16,8 +16,8 @@ This is a shared file, where we track the lectures that have been covered
 
 | *`R` Function* | *Description of Function* | *How Function Is Used* |
 |------|-------|-------|
-|'str'|hello|hello|
-
+|'class()'|outputs the type of object it is|class(variable_name)|
+|'typeOf()'|outputs the type of object it is|typeOf(variable_name)|
 
 ## [Week 2](week2review.html)
 
