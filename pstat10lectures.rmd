@@ -9,10 +9,31 @@ This is a shared file, where we track the lectures that have been covered
 
 
 
-## Week 0
+## [Week 1](week1review.html)
 
 *Important functions*
 
+
+| *`R` Function* | *Description of Function* | *How Function Is Used* |
+|------|-------|-------|
+|'str'|hello|hello|
+
+
+## [Week 2](week2review.html)
+
+| *`R` Function* | *Description of Function* | *How Function Is Used* |
+|------|-------|-------|
+|'str'|hello|hello|
+
+
+## [Week 3](week3review.html)
+
+| *`R` Function* | *Description of Function* | *How Function Is Used* |
+|------|-------|-------|
+|'str'|hello|hello|
+
+
+## [Week 4](week4review.html)
 
 | *`R` Function* | *Description of Function* | *How Function Is Used* |
 |------|-------|-------|
